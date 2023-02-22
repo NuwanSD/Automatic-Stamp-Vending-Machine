@@ -1,6 +1,6 @@
 # Vending-Stamps-Machine-
 
-This program is a simulator of simple vending stamps machine
+This program is a simulator of automatic stamp vending machine.
 
 # Here is the process of this machine-
 
