@@ -1,4 +1,4 @@
-# Vending-Stamps-Machine-
+# Automatic-Stamp-Vending-Machine
 
 This program is a simulator of automatic stamp vending machine.
 
